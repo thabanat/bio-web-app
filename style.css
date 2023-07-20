@@ -1,0 +1,23 @@
+h1 {
+    font-size: larger;
+    color: blue;
+    font-style: oblique;
+}
+
+p {
+    font-size: small;
+    color: whitesmoke;
+    font-style: oblique;
+}
+/* universal selector */
+* {
+    background-color: burlywood;
+    text-align: center;
+    border-start-end-radius: 1.25rem;
+
+}
+a {
+    color: blueviolet;
+    font-size: medium;
+    font-style: italic;
+}
